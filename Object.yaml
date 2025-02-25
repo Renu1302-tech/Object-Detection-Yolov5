@@ -1,0 +1,10 @@
+path: ./Users/renu/Object_Detection/yolov5/yolo_Dataset_jpg
+
+train: /Users/renu/Object_Detection/yolov5/yolo_Dataset_jpg/images/train
+val: /Users/renu/Object_Detection/yolov5/yolo_Dataset_jpg/images/val
+
+## Number of Classes
+nc: 3
+
+# Names of Classes
+names: ["raise hand", "read", "write"]
